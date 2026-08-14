@@ -1,5 +1,5 @@
 # Java For Beginners 📘
-A collection of my notes, exercises, and practice code from the **Java For Beginners** course on Coursera. This repo tracks my progress as I build a solid foundation in Java before moving into more advanced OOP and project-based work.
+A collection of my notes, exercises, and practice code from the **Java For Beginners** course on Coursera by IBM. This repo tracks my progress as I build a solid foundation in Java before moving into more advanced OOP and project-based work.
 ## 👩‍💻 About
 As a second-year BSCS student, using this course to strengthen my core Java fundamentals alongside my coursework and personal projects (Java Swing apps, DSA practice, etc.).
 - **Course:** Java For Beginners (Coursera)
