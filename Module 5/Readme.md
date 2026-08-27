@@ -1,5 +1,5 @@
 # ☕ Java Programming for Beginners – Module 5 (Final Project)
-This folder contains my final project from Module 5 of the Java Programming for Beginners course on Coursera.
+This folder contains my final project from Module 5 of the Java Programming for Beginners course by IBM on Coursera.
 
 ## 🛒 About This Project
 Project Name: Grocery Shopping Console Application
