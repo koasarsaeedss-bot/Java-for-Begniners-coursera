@@ -30,8 +30,8 @@ java-for-beginners/
 - [x] Module 1 — Java Basics
 - [x] Module 2 — Control Flow
 - [x] Module 3 — OOP Fundamentals
-- [ ] Module 4 — OOP In-Depth
-- [ ] Module 5 — Final Project
+- [x] Module 4 — OOP In-Depth
+- [x] Module 5 — Final Project
       
 ## 🛠️ Topics Covered
 - Java syntax & data types
